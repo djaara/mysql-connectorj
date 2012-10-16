@@ -7,7 +7,7 @@ class MysqlConnectorjGrailsPlugin {
     ]
 
     def author = "Jaroslav Barton"
-    def authorEmail = "djaara83k@gmail.com"
+    def authorEmail = "djaara83@gmail.com"
     def title = "MySQL Connector/J"
     def description = "MySQL Connector/J"
     def documentation = "http://grails.org/plugin/mysql-connectorj"
