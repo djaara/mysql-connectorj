@@ -1,4 +1,4 @@
-<plugin name='mysql-connectorj' version='5.1.22' grailsVersion='1.2.0 &gt; *'>
+<plugin name='mysql-connectorj' version='5.1.22.1' grailsVersion='1.2.0 &gt; *'>
   <author>Jaroslav Barton</author>
   <authorEmail>djaara83@gmail.com</authorEmail>
   <title>MySQL Connector/J</title>
